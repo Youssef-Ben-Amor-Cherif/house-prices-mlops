@@ -10,11 +10,8 @@ __pycache__/
 # Données et modèles
 data/
 models/
-# Ne pas ignorer le dossier data lui-même
 !data/
-# Ne pas ignorer les fichiers DVC dans data
 !data/*.dvc
-
 
 # Notebooks checkpoints
 .ipynb_checkpoints/
